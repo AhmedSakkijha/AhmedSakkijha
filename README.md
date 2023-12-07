@@ -6,12 +6,11 @@ I'm  Ahmed Sakkijha from Jordan , A Computer Science student , I liked Programmi
 experience with Java and C++, and I love programming competitions of all kinds
 
 ## Skills and Experience
+
 📱 Kotlin ~ Android 
+
 💻 HTML, CSS, JS
 
-##Examples of Work
-<img src ="Screenshot 2023-12-07 135052.png"  width ="250">
-<a href="file:///C:/Users/user/Downloads/website%20k+A/website%20k+A/HTML/home.html">ApexBlockChain</a>
 
 - 🔭 I’m currently working on My own 
 - 🌱 I’m currently learning Database / C# / Algorithms       
