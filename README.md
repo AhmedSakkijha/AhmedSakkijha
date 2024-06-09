@@ -1,11 +1,11 @@
-### Hi there 👋 i'm Ahmed Sakkijha
+### Hi there 👋 I'm Ahmed Sakkijha
+
 #### Development and Programming
 ![Development and Programming](https://github.blog/wp-content/uploads/2023/09/1200x630-Blog-Master-Half@2x.png?resize=1600%2C850)
 
-I'm  Ahmed Sakkijha from Jordan , A Computer Science student , I liked Programming not long ago, but when I discovered the world’s need for it and how quickly it develops and grows, I decided to learn what it is, how to pursue it, and job opportunities 
-experience with Java and C++, and I love programming competitions of all kinds
+I'm Ahmed Sakkijha from Jordan, a Computer Science student. I developed an interest in programming not long ago, and seeing the world's need for it and how quickly it evolves, I decided to delve into it. I aim to pursue it further and explore job opportunities. I have experience with Java and C++, and I love participating in programming competitions of all kinds.
 
-
+### Connect with me:
 
 <div style="display: flex; gap: 20px;">
 
@@ -34,4 +34,3 @@ experience with Java and C++, and I love programming competitions of all kinds
 </a>
 
 </div>
-
