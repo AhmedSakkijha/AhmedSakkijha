@@ -16,13 +16,6 @@ I'm Ahmed Sakkijha from Jordan, a Computer Science student. I developed an inter
   </div>
 </a>
 
-<a href="https://dev.to/Marksakkijha" target="_blank" style="text-decoration: none;">
-  <div style="display: flex; align-items: center; justify-content: center; width: 150px; height: 50px; background-color: #0a0a0a; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev" height="24" style="margin-right: 10px;"/>
-    DEV
-  </div>
-</a>
-
 <a href="https://www.linkedin.com/in/AhmedSakkijha/" target="_blank" style="text-decoration: none;">
   <div style="display: flex; align-items: center; justify-content: center; width: 150px; height: 50px; background-color: #0077b5; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="24" style="margin-right: 10px;"/>
@@ -53,8 +46,3 @@ I'm Ahmed Sakkijha from Jordan, a Computer Science student. I developed an inter
 
 </div>
 
-<style>
-  div:hover {
-    transform: scale(1.1);
-  }
-</style>
