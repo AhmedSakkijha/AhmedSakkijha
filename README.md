@@ -9,28 +9,52 @@ I'm Ahmed Sakkijha from Jordan, a Computer Science student. I developed an inter
 
 <div style="display: flex; gap: 20px;">
 
-<a href="https://github.com/AhmedSakkijha" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" style="filter: invert(24%) sepia(77%) saturate(6364%) hue-rotate(1deg) brightness(92%) contrast(107%); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+<a href="https://github.com/AhmedSakkijha" target="_blank" style="text-decoration: none;">
+  <div style="display: flex; align-items: center; justify-content: center; width: 150px; height: 50px; background-color: #333; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="24" style="margin-right: 10px;"/>
+    GitHub
+  </div>
 </a>
 
-<a href="https://dev.to/Marksakkijha" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev" height="40" style="filter: invert(19%) sepia(90%) saturate(6623%) hue-rotate(260deg) brightness(90%) contrast(115%); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+<a href="https://dev.to/Marksakkijha" target="_blank" style="text-decoration: none;">
+  <div style="display: flex; align-items: center; justify-content: center; width: 150px; height: 50px; background-color: #0a0a0a; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev" height="24" style="margin-right: 10px;"/>
+    DEV
+  </div>
 </a>
 
-<a href="https://www.linkedin.com/in/AhmedSakkijha/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" style="filter: invert(36%) sepia(84%) saturate(7487%) hue-rotate(193deg) brightness(94%) contrast(101%); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+<a href="https://www.linkedin.com/in/AhmedSakkijha/" target="_blank" style="text-decoration: none;">
+  <div style="display: flex; align-items: center; justify-content: center; width: 150px; height: 50px; background-color: #0077b5; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="24" style="margin-right: 10px;"/>
+    LinkedIn
+  </div>
 </a>
 
-<a href="https://www.facebook.com/https://www.facebook.com/ahmadsk.sakijha.1?mibextid=ZbWKwL" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="40" style="filter: invert(25%) sepia(82%) saturate(7461%) hue-rotate(194deg) brightness(94%) contrast(106%); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+<a href="https://www.facebook.com/https://www.facebook.com/ahmadsk.sakijha.1?mibextid=ZbWKwL" target="_blank" style="text-decoration: none;">
+  <div style="display: flex; align-items: center; justify-content: center; width: 150px; height: 50px; background-color: #4267B2; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="24" style="margin-right: 10px;"/>
+    Facebook
+  </div>
 </a>
 
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23058477/ahmed-rafiq-sakkijha" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="40" style="filter: invert(31%) sepia(70%) saturate(3080%) hue-rotate(357deg) brightness(98%) contrast(100%); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23058477/ahmed-rafiq-sakkijha" target="_blank" style="text-decoration: none;">
+  <div style="display: flex; align-items: center; justify-content: center; width: 150px; height: 50px; background-color: #f48024; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="24" style="margin-right: 10px;"/>
+    Stack Overflow
+  </div>
 </a>
 
-<a href="https://discord.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="40" style="filter: invert(43%) sepia(57%) saturate(3712%) hue-rotate(229deg) brightness(93%) contrast(96%); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+<a href="https://discord.com" target="_blank" style="text-decoration: none;">
+  <div style="display: flex; align-items: center; justify-content: center; width: 150px; height: 50px; background-color: #7289DA; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="24" style="margin-right: 10px;"/>
+    Discord
+  </div>
 </a>
 
 </div>
+
+<style>
+  div:hover {
+    transform: scale(1.1);
+  }
+</style>
