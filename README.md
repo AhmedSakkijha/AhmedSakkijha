@@ -1,48 +1,45 @@
-### Hi there 👋 I'm Ahmed Sakkijha
+<h2 align="left">Hi there 👋 I'm Ahmed Sakkijha <br>Development and Programming</h2>
 
-#### Development and Programming
-![Development and Programming](https://github.blog/wp-content/uploads/2023/09/1200x630-Blog-Master-Half@2x.png?resize=1600%2C850)
+###
 
-I'm Ahmed Sakkijha from Jordan, a Computer Science student. I developed an interest in programming not long ago, and seeing the world's need for it and how quickly it evolves, I decided to delve into it. I aim to pursue it further and explore job opportunities. I have experience with Java and C++, and I love participating in programming competitions of all kinds.
-
-### Connect with me:
-
-<div style="display: flex; gap: 20px;">
-
-<a href="https://github.com/AhmedSakkijha" target="_blank" style="text-decoration: none;">
-  <div style="display: flex; align-items: center; justify-content: center; width: 150px; height: 50px; background-color: #333; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="24" style="margin-right: 10px;"/>
-    GitHub
-  </div>
-</a>
-
-<a href="https://www.linkedin.com/in/AhmedSakkijha/" target="_blank" style="text-decoration: none;">
-  <div style="display: flex; align-items: center; justify-content: center; width: 150px; height: 50px; background-color: #0077b5; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="24" style="margin-right: 10px;"/>
-    LinkedIn
-  </div>
-</a>
-
-<a href="https://www.facebook.com/https://www.facebook.com/ahmadsk.sakijha.1?mibextid=ZbWKwL" target="_blank" style="text-decoration: none;">
-  <div style="display: flex; align-items: center; justify-content: center; width: 150px; height: 50px; background-color: #4267B2; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="24" style="margin-right: 10px;"/>
-    Facebook
-  </div>
-</a>
-
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23058477/ahmed-rafiq-sakkijha" target="_blank" style="text-decoration: none;">
-  <div style="display: flex; align-items: center; justify-content: center; width: 150px; height: 50px; background-color: #f48024; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="24" style="margin-right: 10px;"/>
-    Stack Overflow
-  </div>
-</a>
-
-<a href="https://discord.com" target="_blank" style="text-decoration: none;">
-  <div style="display: flex; align-items: center; justify-content: center; width: 150px; height: 50px; background-color: #7289DA; color: white; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="24" style="margin-right: 10px;"/>
-    Discord
-  </div>
-</a>
-
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
 </div>
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=gruvbox&username=AhmedSakkijha%20" alt="Layout with last medium posts"  />
+</div>
+
+###
