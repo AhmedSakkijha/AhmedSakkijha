@@ -1,13 +1,9 @@
 <h2 align="left">Hi there 👋 I'm Ahmed Sakkijha <br>Development and Programming</h2>
 
 
-
-
-![Dragon feeling](https://https://github.com/AhmedSakkijha/AhmedSakkijha/blob/main/9f2f4007-3246-44ad-baf2-237c4f4c8959.jpg?raw=true)
-
-
-
-
+<p align="center">
+  <img align="center" src="C:/Users/user/Downloads/photo1720630157.jpeg" alt="Downloaded Photo" width="300" height="190"/>
+</p>
 
 ###
 
