@@ -4,7 +4,7 @@
   <img align="center" src="9f2f4007-3246-44ad-baf2-237c4f4c8959.jpg" alt="Downloaded Photo" width="700" height="400"/>
 </p>
 
-###
+## <img height="35"> Connect with me
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
