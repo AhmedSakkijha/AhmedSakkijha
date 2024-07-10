@@ -1,5 +1,9 @@
 <h2 align="left">Hi there 👋 I'm Ahmed Sakkijha <br>Development and Programming</h2>
 
+
+https://media.discordapp.net/attachments/1032258674825121834/1260528207363571832/A2325E52-41C7-4477-972E-37565F827AF9.webp?ex=668fa5e0&is=668e5460&hm=bd725a8f8f172bfe218b976d0e5efc5b0df6ccd615134a1255b54dafb9cf7a9f&=&format=webp&width=1160&height=662
+
+
 ###
 
 <div align="left">
